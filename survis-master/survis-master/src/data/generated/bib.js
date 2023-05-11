@@ -1,0 +1,122 @@
+﻿const generatedBibEntries = {
+    "10023499": {
+        "author": "Kandhro, Irfan Ali and Alanazi, Sultan M. and Ali, Fayyaz and Kehar, Asadullah and Fatima, Kanwal and Uddin, Mueen and Karuppayah, Shankar",
+        "doi": "10.1109/ACCESS.2023.3238664 ,",
+        "journal": "IEEE Access",
+        "keywords": "type: research article",
+        "number": "",
+        "pages": "9136-9148",
+        "title": "Detection of Real-Time Malicious Intrusions and Attacks in IoT Empowered Cybersecurity Infrastructures",
+        "type": "ARTICLE",
+        "volume": "11",
+        "year": "2023"
+    },
+    "8353930": {
+        "author": "Tang, Hanqi and Sun, Qifu Tyler and Yang, Xiaolong and Long, Keping",
+        "doi": "10.1109/ACCESS.2018.2832854 ,",
+        "journal": "IEEE Access",
+        "keywords": "type: research article",
+        "number": "",
+        "pages": "26059-26068",
+        "title": "A Network Coding and DES Based Dynamic Encryption Scheme for Moving Target Defense",
+        "type": "ARTICLE",
+        "volume": "6",
+        "year": "2018"
+    },
+    "8449268": {
+        "author": "Falco, Gregory and Viswanathan, Arun and Caldera, Carlos and Shrobe, Howard",
+        "doi": "10.1109/ACCESS.2018.2867556 ,",
+        "journal": "IEEE Access",
+        "keywords": "type: research article",
+        "number": "",
+        "pages": "48360-48373",
+        "title": "A Master Attack Methodology for an AI-Based Automated Attack Planner for Smart Cities",
+        "type": "ARTICLE",
+        "volume": "6",
+        "year": "2018"
+    },
+    "8888271": {
+        "author": "Razaque, Abdul and Amsaad, Fathi and Jaro Khan, Meer and Hariri, Salim and Chen, Shujing and Siting, Chen and Ji, Xingchen",
+        "doi": "10.1109/ACCESS.2019.2950849 ,",
+        "journal": "IEEE Access",
+        "keywords": "type: survey paper",
+        "number": "",
+        "pages": "168774-168797",
+        "title": "Survey: Cybersecurity Vulnerabilities, Attacks and Solutions in the Medical Domain",
+        "type": "ARTICLE",
+        "volume": "7",
+        "year": "2019"
+    },
+    "8949517": {
+        "author": "Cho, Jin-Hee and Sharma, Dilli P. and Alavizadeh, Hooman and Yoon, Seunghyun and Ben-Asher, Noam and Moore, Terrence J. and Kim, Dong Seong and Lim, Hyuk and Nelson, Frederica F.",
+        "doi": "10.1109/COMST.2019.2963791 ,",
+        "journal": "IEEE Communications Surveys & Tutorials",
+        "keywords": "type: category of survey papers",
+        "number": "1",
+        "pages": "709-745",
+        "title": "Toward Proactive, Adaptive Defense: A Survey on Moving Target Defense",
+        "type": "ARTICLE",
+        "volume": "22",
+        "year": "2020"
+    },
+    "9096400": {
+        "author": "Hu, Hao and Liu, Yuling and Chen, Chen and Zhang, Hongqi and Liu, Yi",
+        "doi": "10.1109/TNSM.2020.2995713",
+        "journal": "IEEE Transactions on Network and Service Management",
+        "keywords": "type: category of research articles",
+        "number": "3",
+        "pages": "1683-1700",
+        "title": "Optimal Decision Making Approach for Cyber Security Defense Using Evolutionary Game",
+        "type": "ARTICLE",
+        "volume": "17",
+        "year": "2020"
+    },
+    "9122502": {
+        "author": "El-Rewini, Zeinab and Sadatsharan, Karthikeyan and Sugunaraj, Niroop and Selvaraj, Daisy Flora and Plathottam, Siby Jose and Ranganathan, Prakash",
+        "doi": "10.1109/JSEN.2020.3004275 ,",
+        "journal": "IEEE Sensors Journal",
+        "keywords": "type: research article",
+        "number": "22",
+        "pages": "13752-13767",
+        "title": "Cybersecurity Attacks in Vehicular Sensors",
+        "type": "ARTICLE",
+        "volume": "20",
+        "year": "2020"
+    },
+    "9343343": {
+        "author": "Sudheera, Kalupahana Liyanage Kushan and Divakaran, Dinil Mon and Singh, Rhishi Pratap and Gurusamy, Mohan",
+        "doi": "10.1109/JIOT.2021.3055937",
+        "journal": "IEEE Internet of Things Journal",
+        "keywords": "type: category of research articles",
+        "number": "8",
+        "pages": "6591-6607",
+        "title": "ADEPT: Detection and Identification of Correlated Attack Stages in IoT Networks",
+        "type": "ARTICLE",
+        "volume": "8",
+        "year": "2021"
+    },
+    "9579414": {
+        "author": "Elmarady, Ahmed Abdelwahab and Rahouma, Kamel",
+        "doi": "10.1109/ACCESS.2021.3121230 ,",
+        "journal": "IEEE Access",
+        "keywords": "type: survey type of research paper",
+        "number": "",
+        "pages": "143997-144016",
+        "title": "Studying Cybersecurity in Civil Aviation, Including Developing and Applying Aviation Cybersecurity Risk Assessment",
+        "type": "ARTICLE",
+        "volume": "9",
+        "year": "2021"
+    },
+    "9625934": {
+        "author": "Elkhail, Abdulrahman Abu and Refat, Rafi Ud Daula and Habre, Ricardo and Hafeez, Azeem and Bacha, Anys and Malik, Hafiz",
+        "doi": "10.1109/ACCESS.2021.3130495 ,",
+        "journal": "IEEE Access",
+        "keywords": "type: survey paper",
+        "number": "",
+        "pages": "162401-162437",
+        "title": "Vehicle Security: A Survey of Security Issues and Vulnerabilities, Malware Attacks and Defenses",
+        "type": "ARTICLE",
+        "volume": "9",
+        "year": "2021"
+    }
+};
